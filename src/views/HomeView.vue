@@ -2,6 +2,6 @@
 
 <template>
   <main>
-    <h3>EGOR & VANYA PIZDEZCCCCCCC HULuGANbI</h3>
+    <h3>here should be something</h3>
   </main>
 </template>
